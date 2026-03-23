@@ -1,0 +1,21 @@
+venv/
+
+# Dataset (too large for github)
+Fake.csv
+True.csv
+
+# Model files
+model.pkl
+vectorizer.pkl
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
